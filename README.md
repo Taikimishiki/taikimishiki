@@ -10,4 +10,4 @@ After many years, I learned more languages such as JavaScript/TypeScript, Java, 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimishiki&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
