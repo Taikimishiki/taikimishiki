@@ -2,7 +2,7 @@
 
 I'm a self-taught programmer with 7 years of experience.
 My first programming language was Lua, and it was thanks to Roblox that I discovered programming.
-After many years, I have learned several languages such as JavaScript/TypeScript, Java, C/C++, and more. However, I found a suitable programming language for myself, which is C#, and it has been my main programming language for the past 3 years.
+After many years, I have learned several languages such as JavaScript/TypeScript, Java, C/C++, and more. However, I found a suitable programming language for myself, which is C#, and it has been my main programming language for the past 4 years.
 
 <br>
 
