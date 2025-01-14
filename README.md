@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanimishiki or Tani for short
 
-I'm a self-taught programmer with 9 years of experience.
+I'm a self-taught programmer with 7 years of experience.
 My first programming language was Lua, and it was thanks to Roblox that I discovered programming.
 After many years, I have learned several languages such as JavaScript/TypeScript, Java, C/C++, and more. However, I found a suitable programming language for myself, which is C#, and it has been my main programming language for the past 3 years.
 
