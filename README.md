@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanimishiki or Tani for short
+<h1 align="center">👋 Hi, I'm Tanimishiki or Tani for short</h1>
 
 I'm a self-taught programmer with 7 years of experience.
 My first programming language was Lua, and it was thanks to Roblox that I discovered programming.
